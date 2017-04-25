@@ -1,0 +1,1 @@
+Simple script to write sowing date to a CropSyst rotation file.  Reads CSV file that specifies the simulation to target and planting date.  Date were obtained from Extension Variety trials.
