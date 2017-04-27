@@ -12,7 +12,7 @@ namespace SpecificPlantingDateWriter
         {
             DateWriter dw = new DateWriter();
 
-            dw.WriteDatesToRotationFiles(@"Input/observed_spring_canola_planting_dates.csv","");
+            dw.WriteDatesToRotationFiles(@"Input/observed_spring_canola_peas_wheat_planting_dates.csv", @"C:\Users\brcarlson\Desktop\plantingDate\Scenarios");
         }
     }
 }

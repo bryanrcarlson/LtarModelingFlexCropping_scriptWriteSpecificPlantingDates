@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace SpecificPlantingDateWriter.Dto
 {
-    class csvDto
+    class ObservedPlanting
     {
+        public string CropName { get; set; }
         public string SimLocation { get; set; }
         public DateTime PlantingDate { get; set; }
     }

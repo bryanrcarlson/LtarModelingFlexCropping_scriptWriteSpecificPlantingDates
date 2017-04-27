@@ -1,0 +1,153 @@
+Crop,Year,Location-Name,Latitude,Longitude,Location-Quality,Location-Quality-Reason,Planting-Date,Planting-Date-Quality,Planting-Date-Quality-Reason,Harvest-Date,Soil-Type,Yield,Data-Source,Sim-Location,MUKEY,Sim-Soil-Type
+,,,,,,,,,,,,kg ha-1,,,,derived from predominate component of STATSGO map unit
+Spring Canola,2011,Pendleton,45.72,-118.6277,Good,,17-Mar-11,Good,,NA,NA,1753,UOI canola varietal trial reports,45.7284N118.6464W,666983,Walla Walla 
+Spring Canola,2012,Pendleton,45.72,-118.6277,Good,,26-Mar-12,Good,,NA,NA,811,do,45.7284N118.6464W,666983,Walla Walla 
+Spring Canola,2014,Pendleton,45.72,-118.6277,Good,,2-Apr-14,Good,,NA,NA,1381,do,45.7284N118.6464W,666983,Walla Walla 
+Spring Canola,2016,Pendleton,45.72,-118.6277,Good,,31-Mar-16,Good,,NA,NA,1270,do,45.7284N118.6464W,666983,Walla Walla 
+Spring Canola,2011,Craigmont,46.253355,-116.329613,Seems good,,13-May-11,Good,,NA,NA,2328,do,46.2284N116.3965W,661970,Uhlorn 
+Spring Canola,2012,Craigmont,46.253355,-116.391028,Seems good,,17-Apr-12,Good,,NA,NA,2254,do,46.2284N116.4382W,661970,Uhlorn 
+Spring Canola,2013,Craigmont,46.230751,-116.432049,Good,,25-Apr-13,Good,,NA,NA,1849,do,46.2701N116.3132W,661970,Uhlorn 
+Spring Canola,2015,Craigmont,46.25338,-116.350394,Seems good,,1-May-15,Good,,NA,NA,668,do,46.2701N116.3548W,661970,Uhlorn 
+Spring Canola,2016,Craigmont,46.214465,-116.39058,Good,,11-Apr-16,Good,,NA,NA,3117,do,46.2701N116.3965W,661970,Uhlorn 
+Spring Canola,2011,Dayton,46.387825,-117.882682,Seems good,,5-May-11,Good,,NA,NA,3546,do,46.3950N117.8964W,675779,Athena
+Spring Canola,2012,Dayton,46.393191,-117.895514,Good,,7-May-12,Good,,NA,NA,2234,do,46.3950N117.8964W,675779,Athena
+Spring Canola,2013,Dayton,46.382816,-117.877331,Good,,16-Apr-13,Good,,NA,NA,2832,do,46.3950N117.8964W,675779,Athena
+Spring Canola,2014,Dayton,46.392611,-117.884536,Good,,8-Apr-14,Good,,NA,NA,2536,do,46.3950N117.8964W,675779,Athena
+Spring Canola,2015,Dayton,46.388217,-117.882779,Seems good,,28-Apr-15,Good,,NA,NA,1483,do,46.3950N117.8964W,675779,Athena
+Spring Canola,2016,Dayton,46.382285,-117.877128,Seems good,,18-Apr-16,Good,,NA,NA,3286,do,46.3950N117.8964W,675779,Athena
+Spring Canola,2015,Genesee,46.5826,-116.949,Seems good,,27-Apr-15,Good,,NA,NA,3230,do,46.6034N116.9381W,675767,Naff 
+Spring Canola,2011,Moscow,46.7257,-116.9553,Good,,13-May-11,Good,,NA,NA,3562,do,46.7284N116.9381W,675767,Naff 
+Spring Canola,2012,Moscow,46.7257,-116.9553,Good,,8-May-12,Good,,NA,NA,3212,do,46.7284N116.9381W,675767,Naff 
+Spring Canola,2013,Moscow,46.7257,-116.9553,Good,,6-May-13,Good,,NA,NA,3130,do,46.7284N116.9381W,675767,Naff 
+Spring Canola,2014,Moscow,46.7257,-116.9553,Good,,30-Apr-14,Good,,NA,NA,2446,do,46.7284N116.9381W,675767,Naff 
+Spring Canola,2015,Moscow,46.7257,-116.9553,Good,,27-Apr-15,Good,,NA,NA,2460,do,46.7284N116.9381W,675767,Naff 
+Spring Canola,2016,Moscow,46.7257,-116.9553,Good,,10-May-16,Good,,NA,NA,2708,do,46.7284N116.9381W,675767,Naff 
+Spring Canola,2012,LaCrosse,46.811261,-117.702112,Seems good,,22-Apr-12,Good,,NA,NA,1857,do,46.8117N117.6881W,675774,Athena
+Spring Canola,2013,LaCrosse,46.82073,-117.802135,Good,,22-Apr-13,Good,,NA,NA,1544,do,46.8117N117.6881W,675774,Athena
+Spring Canola,2014,LaCrosse,46.81205,-117.795637,Good,,31-Mar-14,Good,,NA,NA,1641,do,46.8117N117.7714W,675773,Walla Walla 
+Spring Canola,2016,LaCrosse,46.804837,-117.756421,Not sure,,6-Apr-16,Good,,NA,NA,1701,do,46.8117N117.8131W,675773,Walla Walla 
+Spring Canola,2016,St. John,47.114194,-117.659167,Good,,18-Apr-16,Good,,3-Sep-16,NA,2505,WSU canola varietal trial report,47.1033N117.6464W,675844,Hesseltine
+Spring Canola,2016,Fairfield,47.3623,-117.06689,Seems good,,2-May-16,Good,,8-Sep-16,NA,2811,WSU canola varietal trial report,47.3533N117.0631W,675770,Naff
+Spring Canola,2011,Davenport,47.6508,118.1271,Good,,4-May-11,Good,,NA,NA,812,UOI canola varietal trial reports,47.6450N118.1464W,675827,Anders
+Spring Canola,2012,Davenport,47.6508,118.1271,Good,,23-Apr-12,Good,,NA,NA,1901,do,47.6450N118.1464W,675827,Anders
+Spring Canola,2013,Davenport,47.6508,118.1271,Good,,17-Apr-13,Good,,NA,NA,2371,do,47.6450N118.1464W,675827,Anders
+Spring Canola,2014,Davenport,47.6508,118.1271,Good,,25-Apr-14,Good,,NA,NA,682,do,47.6450N118.1464W,675827,Anders
+Spring Canola,2016,Davenport,47.65172,-118.12112,Seems good,,19-Apr-16,Good,,25-Jul-16,NA,2038,WSU canola varietal trial report,47.6450N118.1047W,675837,Broadax 
+Spring Peas,2011,Walla-Walla,46.053467,-118.28225,Good,,19-Apr-11,Good,,NA,NA,2285,WSU cereal & legume varietal trial report,46.0617N118.2714W,675773,Walla Walla 
+Spring Peas,2012,Walla-Walla,46.053868,-118.277437,Good,,23-Apr-12,Good,,26-Jul-12,Walla Walla Silt loam,2235,do,46.0617N118.2714W,675773,Walla Walla 
+Spring Peas,2014,Walla-Walla,46.054374,-118.278597,Good,,4-Apr-14,Not sure,also mentioned as 4/2/2014,18-Jul-14,Walla Walla Silt loam,2124,do,46.0617N118.2714W,675773,Walla Walla 
+Spring Peas,2015,Walla-Walla,46.055167,-118.2709,Good,,27-Mar-15,Good,,18-Jul-15,Walla Walla Silt loam,1926,do,46.0617N118.2714W,675773,Walla Walla 
+Spring Peas,2013,Craigmont,46.229483,-116.431032,Seems good,,6-May-13,Good,,27-Aug-13,NA,2673,UOI cereal & legume varietal trial reports,46.2284N116.4382W,661970,Uhlorn 
+Spring Peas,2014,Craigmont,46.289917,-116.419939,Not sure,,14-May-14,Good,,5-Sep-14,NA,1889,do,46.2701N116.4382W,661970,Uhlorn 
+Spring Peas,2015,Craigmont,46.183546,-116.2031,Not sure,,6-May-15,Good,,24-Aug-15,NA,1041,do,46.1867N116.1882W,661983,Klickson
+Spring Peas,2011,Genesee,46.333697,-116.572795,Not sure,,5-May-11,Good,,22-Aug-11,NA,3853,do,46.3534N116.5632W,662078,Taney
+Spring Peas,2012,Genesee,46.332734,-116.57869,Not sure,,7-May-12,Good,,16-Aug-12,NA,3474,do,46.3534N116.5632W,662078,Taney
+Spring Peas,2013,Genesee,46.3336,-116.575308,Not sure,,24-Apr-13,Good,,21-Aug-13,NA,4179,do,46.3534N116.5632W,662078,Taney
+Spring Peas,2014,Genesee,46.301376,-116.475441,Not sure,,1-May-14,Good,,18-Aug-14,NA,2297,do,46.3117N116.4798W,662078,Taney
+Spring Peas,2015,Genesee,46.291932,-116.48503,Not sure,,3-Apr-15,Good,,14-Jul-15,NA,1976,do,46.3117N116.4798W,662078,Taney
+Spring Peas,2012,Moscow,46.43368,-116.571825,Not sure,,10-May-12,Good,,13-Aug-12,NA,2945,do,46.4367N116.5632W,661990,Southwick 
+Spring Peas,2013,Moscow,46.43364,-116.571829,Not sure,,2-May-13,Good,,22-Aug-13,NA,2694,do,46.4367N116.5632W,661990,Southwick 
+Spring Peas,2014,Moscow,46.433738,-116.571827,Not sure,,2-May-14,Good,,7-Aug-14,NA,1902,do,46.4367N116.5632W,661990,Southwick 
+Spring Peas,2015,Moscow,46.43368,-116.571825,Not sure,,24-Apr-15,Good,,18-Aug-15,NA,457,do,46.4367N116.5632W,661990,Southwick 
+Spring Peas,2011,Dusty,46.78085,-117.782017,Good,,20-Apr-11,Good,,NA,NA,2190,WSU cereal & legume varietal trial report,46.7700N117.7714W,675773,Walla Walla 
+Spring Peas,2012,Dusty,46.799325,-117.801992,Good,,10-Apr-12,Good,,1-Aug-12,Walla Walla Silt loam,2576,do,46.8117N117.8131W,675773,Walla Walla 
+Spring Peas,2013,Dusty,46.78121,-117.782904,Good,,15-Mar-13,Good,,23-Jul-13,Onyx Silt loam,2303,do,46.7700N117.7714W,675773,Walla Walla 
+Spring Peas,2014,Dusty,46.781343,-117.780758,Good,,1-Apr-14,Good,,18-Jul-14,Onyx Silt loam,609,do,46.7700N117.7714W,675773,Walla Walla 
+Spring Peas,2011,Palouse,46.8366,-117.05965,Good,,11-May-11,Good,,NA,NA,2769,do,46.8533N117.0631W,675780,Palouse
+Spring Peas,2012,Palouse,46.770248,-117.049773,Good,,15-May-12,Good,,20-Aug-12,Latah & or Reardan Silt loam,2747,do,46.7700N117.0631W,675767,Naff 
+Spring Peas,2013,Palouse,46.805556,-117.065308,Good,,1-May-13,Good,,7-Aug-13,Latah & or Reardan Silt loam,3159,do,46.8117N117.0631W,675767,Naff 
+Spring Peas,2014,Palouse,46.80064,-117.057291,Good,,19-Apr-14,Good,,1-Aug-14,Latah & or Reardan Silt loam,2436,do,46.8117N117.0631W,675767,Naff 
+Spring Peas,2015,Palouse,46.80555,-117.0653,Good,,23-Apr-15,Good,,1-Aug-15,Latah & or Reardan Silt loam,2083,do,46.8117N117.0631W,675767,Naff 
+Spring Peas,2015,Colton,46.90335,-117.803783,Good,,13-Apr-15,Good,,18-Jul-15,Latah Silt loam,1952,do,46.8950N117.8131W,675773,Walla Walla 
+Spring Peas,2011,Farmington,47.040683,-117.047433,Good,,25-May-11,Good,,NA,NA,3125,do,47.0617N117.0631W,675766,Naff 
+Spring Peas,2012,Farmington,47.037974,-117.049588,Good,,17-May-12,Good,,30-Aug-12,Thatuna Silt loam,2312,do,47.0200N117.0631W,675766,Naff 
+Spring Peas,2013,Farmington,47.038895,-117.089714,Good,,2-May-13,Good,,9-Aug-13,Thatuna Silt loam,2437,do,47.0200N117.1048W,675766,Naff 
+Spring Peas,2014,Farmington,47.033104,-117.057871,Good,,2-May-14,Good,,4-Aug-14,Thatuna Silt loam,1573,do,47.0200N117.0631W,675766,Naff 
+Spring wheat,2011,Almira,47.888633,-118.89435,Good,,22-Apr-11,Good,,31-Aug-11,Bagdad Silt loam,4365,WSU cereal & legume varietal trial report,47.8950N118.8964W,675836,Bagdad
+Spring wheat,2012,Almira,47.831726,-118.894901,Good,,24-Apr-12,Good,,29-Aug-12,Bagdad Silt loam,3004,do,47.8116N118.8964W,675836,Bagdad
+Spring wheat,2013,Almira,47.881988,-118.828132,Good,,17-Apr-13,Good,,21-Aug-13,Bagdad Silt loam,4103,do,47.8950N118.8130W,675840,Badge
+Spring wheat,2015,Almira,47.824667,-118.895133,Good,,15-Apr-15,Good,,30-Jul-15,Bagdad Silt loam,1451,do,47.8116N118.8964W,675836,Bagdad
+Spring wheat,2016,Almira,47.865683,-118.894333,Good,,19-Apr-16,Good,,16-Sep-16,NA,4432,do,47.8533N118.8964W,675836,Bagdad
+Spring wheat,2011,Bickleton,45.982117,-120.233017,Good,,12-May-11,Good,,21-Sep-11,Broadax Silt loam,2085,do,45.9784N120.2296W,676019,Van Nostern
+Spring wheat,2012,Bickleton,45.986794,-120.240684,Good,,13-Apr-12,Good,,5-Sep-12,Broadax Silt loam,2705,do,45.9784N120.2296W,676019,Van Nostern
+Spring wheat,2013,Bickleton,45.987197,-120.240644,Good,,22-Apr-13,Good,,30-Aug-13,Broadax Silt loam,1924,do,45.9784N120.2296W,676019,Van Nostern
+Spring wheat,2014,Bickleton,45.986757,-120.240649,Good,,16-Apr-14,Good,,25-Aug-14,Broadax Silt loam,1248,do,45.9784N120.2296W,676019,Van Nostern
+Spring wheat,2015,Bickleton,45.9746,-120.212233,Good,,26-Mar-15,Good,,12-Aug-15,Broadax Silt loam,1470,do,45.9784N120.2296W,676019,Van Nostern
+Spring wheat,2011,Connell,46.619783,-118.725967,Good,,18-Mar-11,Good,,10-Aug-11,Ritzville Silt loam,1755,do,46.6034N118.7297W,675783,Ritzville
+Spring wheat,2012,Connell,46.601278,-118.755684,Good,,2-Apr-12,Good,,31-Jul-12,Ritzville,1786,do,46.6034N118.7714W,675783,Ritzville
+Spring wheat,2013,Connell,46.60184,-118.741651,Good,,13-Mar-13,Good,,31-Jul-13,Ritzville,1574,do,46.6034N118.7297W,675783,Ritzville
+Spring wheat,2014,Connell,46.619758,-118.726671,Good,,18-Mar-14,Good,,21-Jul-14,Ritzville,1540,do,46.6034N118.7297W,675783,Ritzville
+Spring wheat,2011,Dayton,46.3934,-118.056733,Good,,18-Apr-11,Good,,8-Sep-11,Athena Silt loam,6203,do,46.3950N118.0631W,675779,Athena
+Spring wheat,2012,Dayton,46.394095,-118.056083,Good,,1-May-12,Good,,28-Aug-12,Mondovi,3819,do,46.3950N118.0631W,675779,Athena
+Spring wheat,2013,Dayton,46.392648,-118.054385,Good,,2-Apr-13,Good,,23-Aug-13,Mondovi,3397,do,46.3950N118.0631W,675779,Athena
+Spring wheat,2014,Dayton,46.389962,-118.05971,Good,,9-Apr-14,Good,,26-Aug-14,Mondovi,2780,do,46.3950N118.0631W,675779,Athena
+Spring wheat,2015,Dayton,46.394817,-118.05735,Good,,9-Apr-15,Good,,13-Aug-15,Mondovi,1989,do,46.3950N118.0631W,675779,Athena
+Spring wheat,2016,Dayton,46.389917,-118.05775,Good,,12-Apr-16,Good,,24-Aug-16,NA,4133,do,46.3950N118.0631W,675779,Athena
+Spring wheat,2011,Endicott,46.9246,-117.562017,Good,,8-Apr-11,Good,,15-Aug-11,Onyx Silt loam,3477,do,46.9367N117.5631W,675774,Athena
+Spring wheat,2012,Endicott,46.917485,-117.569044,Good,,7-May-12,Good,,23-Aug-12,Onyx Silt loam,3946,do,46.9367N117.5631W,675774,Athena
+Spring wheat,2013,Endicott,46.933664,-117.554895,Good,,4-Apr-13,Good,,14-Aug-13,Onyx Silt loam,3773,do,46.9367N117.5631W,675774,Athena
+Spring wheat,2014,Endicott,46.935993,-117.596477,Good,,24-Mar-14,Good,,12-Aug-14,Onyx Silt loam,2182,do,46.9367N117.6048W,675774,Athena
+Spring wheat,2015,Endicott,46.943917,-117.677867,Good,,8-Apr-15,Good,,11-Aug-15,Onyx Silt loam,1624,do,46.9367N117.6881W,675774,Athena
+Spring wheat,2011,Fairfield,47.421633,-117.253583,Good,,2-May-11,Not sure,also mentioned as 4/15/2011,19-Sep-11,Thatuna Silt loam,3397,do,47.4366N117.2715W,675844,Hesseltine
+Spring wheat,2012,Fairfield,47.405771,-117.22646,Good,,21-Apr-12,Good,,10-Sep-12,Palouse Silt loam,4753,do,47.3950N117.2298W,675770,Naff
+Spring wheat,2013,Fairfield,47.416574,-117.241991,Good,,18-Apr-13,Good,,12-Sep-13,Palouse Silt loam,4634,do,47.4366N117.2298W,675770,Naff
+Spring wheat,2014,Fairfield,47.437754,-117.216979,Good,,16-Apr-14,Not sure,also mentioned as 5/2/2014,5-Sep-14,Palouse Silt loam,5127,do,47.4366N117.2298W,675770,Naff
+Spring wheat,2016,Fairfield,47.439767,-117.131417,Good,,2-May-16,Good,,14-Sep-16,NA,3341,do,47.4366N117.1465W,675770,Naff
+Spring wheat,2011,Farmington,47.040683,-117.047433,Good,,11-May-11,Good,,22-Sep-11,Naff Palouse Silt loam,4116,do,47.0200N117.0631W,675766,Naff 
+Spring wheat,2012,Farmington,46.963407,-117.094276,Good,,11-May-12,Good,,17-Sep-12,Thatuna Silt loam,4447,do,46.9783N117.1048W,675766,Naff 
+Spring wheat,2013,Farmington,47.080936,-117.053411,Good,,18-Apr-13,Good,,3-Sep-13,Thatuna Silt loam,5791,do,47.0617N117.0631W,675766,Naff 
+Spring wheat,2014,Farmington,47.030852,-117.055938,Good,,9-Apr-14,Good,,27-Aug-14,Thatuna Silt loam,4454,do,47.0200N117.0631W,675766,Naff 
+Spring wheat,2015,Farmington,47.038633,-117.045983,Good,,17-Apr-15,Good,,20-Aug-15,Thatuna Silt loam,5093,do,47.0200N117.0631W,675766,Naff 
+Spring wheat,2016,Farmington,47.033967,-117.057183,Good,,7-Apr-16,Good,,14-Sep-16,NA,6464,do,47.0200N117.0631W,675766,Naff 
+Spring wheat,2011,Horse Heaven,46.13155,-119.61785,Good,,23-Mar-11,Good,,3-Aug-11,Warden Silt loam,2347,do,46.1451N119.6046W,675758,Warden
+Spring wheat,2012,Horse Heaven,46.127895,-119.684072,Good,,23-Mar-12,Good,,1-Aug-12,Shano Silt loam,1158,do,46.1451N119.6880W,675758,Warden
+Spring wheat,2013,Horse Heaven,46.102191,-119.504396,Good,,14-Mar-13,Good,,22-Jul-13,Shano Silt loam,2728,do,46.1034N119.5213W,675757,Ritzville
+Spring wheat,2014,Horse Heaven,46.128229,-119.665695,Good,,21-Mar-14,Good,,16-Jul-14,Shano Silt loam,1390,do,46.1451N119.6463W,675758,Warden
+Spring wheat,2015,Horse Heaven,46.120633,-119.412817,Good,,12-Mar-15,Good,,15-Jul-15,Shano Silt loam,1134,do,46.1034N119.3963W,675757,Ritzville
+Spring wheat,2016,Horse Heaven,46.130267,-119.5503,Good,,10-Mar-16,Good,,5-Aug-16,NA,1644,do,46.1451N119.5630W,675757,Ritzville
+Spring wheat,2011,Lamont,47.138283,-117.831483,Good,,18-Apr-11,Good,,6-Sep-11,Athena Silt loam,5132,do,47.1450N117.8131W,675774,Athena
+Spring wheat,2012,Lamont,47.134607,-117.825677,Good,,19-Apr-12,Good,,31-Aug-12,Athena Silt loam,3445,do,47.1450N117.8131W,675774,Athena
+Spring wheat,2014,Lamont,47.135126,-117.825924,Good,,7-Apr-14,Good,,21-Aug-14,Athena Silt loam,2429,do,47.1450N117.8131W,675774,Athena
+Spring wheat,2015,Lamont,47.135583,-117.829833,Good,,10-Apr-15,Good,,29-Jul-15,Athena Silt loam,1505,do,47.1450N117.8131W,675774,Athena
+Spring wheat,2012,Lind,47.005686,-118.559674,Good,,9-Mar-12,Not sure,also mentioned as 5/9/2012,1-Aug-12,Ritzville,1943,do,47.0200N118.5630W,675807,Ritzville 
+Spring wheat,2013,Lind,47.005397,-118.557851,Good,,11-Mar-13,Good,,1-Jun-13,Ritzville,1547,do,47.0200N118.5630W,675807,Ritzville 
+Spring wheat,2014,Lind,47.00468,-118.571653,Good,,13-Mar-14,Good,,30-Jul-14,Ritzville,1689,do,47.0200N118.5630W,675807,Ritzville 
+Spring wheat,2015,Lind,47.00439,-118.5711,Good,,4-Mar-15,Good,,13-Jul-15,Ritzville,1518,do,47.0200N118.5630W,675807,Ritzville 
+Spring wheat,2016,Lind,47.005633,-118.559567,Good,,8-Mar-16,Good,,25-Jul-16,Ritzville,3199,do,47.0200N118.5630W,675807,Ritzville 
+Spring wheat,2011,Mayview,46.607067,-117.407833,Good,,29-Apr-11,Good,,9-Sep-11,Athena Silt loam,3585,do,46.6034N117.3964W,675851,Athena
+Spring wheat,2012,Mayview,46.604285,-117.403357,Good,,25-Apr-12,Not sure but v. close,also mentioned as 4/24/2012,30-Aug-12,Athena Silt loam,2511,do,46.6034N117.3964W,675851,Athena
+Spring wheat,2013,Mayview,46.607685,-117.40815,Good,,12-Apr-13,Good,,27-Aug-13,Athena Silt loam,3908,do,46.6034N117.3964W,675851,Athena
+Spring wheat,2015,Mayview,46.6179,-117.41145,Good,,13-Apr-15,Good,,7-Aug-15,Athena Silt loam,3277,do,46.6034N117.3964W,675851,Athena
+Spring wheat,2016,Mayview,46.607167,-117.408533,Good,,22-Apr-16,Good,,30-Aug-16,NA,3490,do,46.6034N117.3964W,675851,Athena
+Spring wheat,2012,Pullman,46.698641,-117.134579,Good,,25-Apr-12,Good,,15-Aug-12,Latah & or Reardan Silt loam,4783,do,46.6867N117.1465W,675779,Athena
+Spring wheat,2013,Pullman,46.70339,-117.15072,Good,,1-Apr-13,Good,,27-Aug-13,Latah & or Reardan Silt loam,4601,do,46.6867N117.1465W,675779,Athena
+Spring wheat,2015,Pullman,46.690567,-117.142195,Good,,10-Apr-15,Good,,24-Jul-15,Latah & or Reardan Silt loam,3613,do,46.6867N117.1465W,675779,Athena
+Spring wheat,2016,Pullman,46.6952,-117.1422,Good,,8-Apr-16,Good,,13-Aug-16,NA,5112,do,46.6867N117.1465W,675779,Athena
+Spring wheat,2011,Reardan,47.66535,-118.0332,Good,,20-Apr-11,Good,,13-Sep-11,Hanning Silt loam,5118,do,47.6450N118.0214W,675837,Broadax 
+Spring wheat,2012,Reardan,47.687623,-117.801682,Good,,23-Apr-12,Good,,4-Sep-12,Hanning Silt loam,4230,do,47.6866N117.8131W,675837,Broadax 
+Spring wheat,2013,Reardan,47.672338,-118.013145,Good,,24-Apr-13,Good,,20-Aug-13,Hanning Silt loam,5515,do,47.6866N118.0214W,675837,Broadax 
+Spring wheat,2014,Reardan,47.665416,-118.034624,Good,,11-Apr-14,Good,,25-Aug-14,Hanning Silt loam,2175,do,47.6450N118.0214W,675837,Broadax 
+Spring wheat,2016,Reardan,47.665283,-118.033233,Good,,11-Apr-16,Good,,1-Sep-16,NA,4917,do,47.6450N118.0214W,675837,Broadax 
+Spring wheat,2011,St. John,47.081467,-117.519833,Good,,20-Apr-11,Good,,7-Sep-11,Athena Silt loam,4042,do,47.0617N117.5214W,675775,Athena
+Spring wheat,2012,St. John,47.08007,-117.520018,Good,,13-Apr-12,Good,,4-Sep-12,Athena Silt loam,4880,do,47.0617N117.5214W,675775,Athena
+Spring wheat,2013,St. John,47.08163,-117.515336,Good,,9-Apr-13,Good,,28-Aug-13,Athena Silt loam,4809,do,47.0617N117.5214W,675775,Athena
+Spring wheat,2014,St. John,47.084086,-117.492884,Good,,14-Apr-14,Good,,22-Aug-14,Athena Silt loam,4088,do,47.1033N117.4798W,675765,Palouse
+Spring wheat,2015,St. John,47.082,-117.519567,Good,,16-Apr-15,Good,,11-Aug-15,Athena Silt loam,1566,do,47.0617N117.5214W,675775,Athena
+Spring wheat,2016,St. John,47.08065,-117.52035,Good,,18-Apr-16,Good,,16-Aug-16,NA,4992,do,47.0617N117.5214W,675775,Athena
+Spring wheat,2011,Walla-Walla,46.27355,-118.1307,Good,,25-Mar-11,Not sure,also mentioned as 5/25/2011,8-Sep-11,Walla Walla Silt loam,4708,do,46.2701N118.1464W,675787,Patit Creek
+Spring wheat,2012,Walla-Walla,46.196275,-118.111117,Good,,22-Apr-12,Good,,27-Aug-12,Walla Walla Silt loam,5157,do,46.1867N118.1047W,675785,NA
+Spring wheat,2013,Walla-Walla,46.206396,-118.117191,Good,,26-Mar-13,Good,,5-Aug-13,Walla Walla Silt loam,7641,do,46.1867N118.1047W,675785,NA
+Spring wheat,2015,Walla-Walla,46.196083,-118.111117,Good,,13-Mar-15,Good,,10-Aug-15,Walla Walla Silt loam,4506,do,46.1867N118.1047W,675785,NA
+Spring wheat,2016,Walla-Walla,46.275283,-118.194233,Good,,8-Apr-16,Good,,23-Aug-16,NA,7436,do,46.2701N118.1881W,675787,Patit Creek
+Spring wheat,2011,Craigmont,46.237511,-116.422388,Not sure,,11-May-11,Good,,8-Sep-11,NA,4324,UOI cereal & legume varietal trial reports,46.2284N116.4382W,661970,Uhlorn 
+Spring wheat,2012,Craigmont,46.241059,-116.431039,Seems good,,2-May-12,Good,,5-Sep-12,NA,4132,do,46.2284N116.4382W,661970,Uhlorn 
+Spring wheat,2013,Craigmont,46.14813,-116.243744,Not sure,,12-Apr-13,Good,,22-Aug-13,NA,3920,do,46.1451N116.2299W,661963,Nez Perce
+Spring wheat,2014,Craigmont,46.232483,-116.41125,Not sure,,21-Apr-14,Good,,2-Sep-14,NA,3621,do,46.2284N116.3965W,661970,Uhlorn 
+Spring wheat,2015,Craigmont,46.24391,-116.10473,Not sure,,17-Apr-15,Good,,21-Aug-15,NA,2193,do,46.2284N116.1049W,661983,Klickson
+Spring wheat,2013,"Genesee, (rim area)",46.29298,-116.582539,Not sure,,29-Mar-13,Good,,13-Aug-13,NA,5256,do,46.3117N116.5632W,662078,Taney
+Spring wheat,2014,"Genesee, (rim area)",46.292421,-116.561757,Not sure,,16-Apr-14,Good,,8-Aug-14,NA,3598,do,46.3117N116.5632W,662078,Taney
+Spring wheat,2015,Genesee,46.301083,-116.57845,Not sure,,3-Apr-15,Good,,31-Aug-15,NA,3013,do,46.3117N116.5632W,662078,Taney
+Spring wheat,2014,Moscow (Parker farm),46.432892,-116.571782,Not sure,,3-May-14,Good,,22-Aug-14,NA,5101,do,46.7284N116.9381W,675767,Naff 
+Spring wheat,2015,Moscow,46.435004,-116.565972,Not sure,,24-Apr-15,Good,,18-Aug-15,NA,3659,do,46.7284N116.9381W,675767,Naff 
+Spring wheat,2014,Plaza,47.304735,-117.43782,Good,,21-Apr-14,Good,,28-Aug-14,NA,4843,WSU cereal & legume varietal trial report,47.3117N117.4381W,675777,Palouse
+Spring wheat,2016,Plaza,47.2458,-117.25195,Good,,20-Apr-16,Good,,18-Aug-16,NA,6329,WSU cereal & legume varietal trial report,47.2283N117.2715W,675767,Naff 
